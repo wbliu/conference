@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	spring mvc data jpa ${id } ${name }
+	hello spring mvc ddd ${rid } ${message }
 </body>
 </html>
